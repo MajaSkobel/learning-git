@@ -14,3 +14,4 @@ for shop,product_list in shopping_list.items():
 print(f"W sumie kupuję {sum_of_products} produktów.")
 print()
 print("Cześć Maciek!")
+print("Robię zmiany numer 2")
